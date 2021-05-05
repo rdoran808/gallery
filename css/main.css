@@ -22,8 +22,7 @@ text-align: center
   .grid-image {
     display: grid;
     grid-template-columns: auto auto auto;
-    gap: ;
   }
-.about {
+body {
   font-size: 125%
 }
