@@ -8,7 +8,9 @@ height: auto;
 }
 
 .about {
-  max-width: 40em
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width: 30em) {
